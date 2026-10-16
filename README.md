@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="docs/prototype.png" alt="Assembled case" width="49%">
-  <img src="docs/prototype_side.png" alt="Rear I/O" width="49%">
+  <img src="docs/prototype_open.png" alt="Rear I/O" width="49%">
 </p>
 
 ![CAD render](docs/mini-ITX-open_render.png)
