@@ -1,14 +1,13 @@
 # 3D Printed Micro ATX PC Case (SFX PSU)
 
 <p align="center">
-  <img src="docs/front.png" alt="Assembled case" width="49%">
-  <img src="docs/side.png" alt="Rear I/O" width="49%">
+  <img src="docs/iso.png" alt="Assembled case" width="50%">
+  <img src="docs/side.png" alt="Rear I/O" width="50%">
 </p>
-
-![CAD render](docs/mini-ITX-open_render.png)
- 
-<!-- TODO: Add a hero photo of the finished case here, e.g. ![Finished case](images/case-finished.jpg) -->
-![](docs/mATX16_render.png)
+<p align="center">
+  <img src="docs/mATX16_render.png" alt="Assembled case" width="50%">
+  <img src="docs/front.png" alt="Rear I/O" width="50%">
+</p>
  
 ## Introduction
  
