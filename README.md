@@ -13,7 +13,7 @@
  
 This project is a custom-designed, 3D printed PC enclosure built to serve as the foundation for future robotics projects, starting with a robotic arm integrated directly into its lid. The design fits a Micro ATX motherboard, an SFX power supply, and a full-size RTX 4060 graphics card. The front of the PC will have programmable status screens to display temperatures, processor loads, or whatever else you might want.
  
-This project remains a work in progress. While I have begun printing and assembling my own case, there are some notable issues in the physical assembly process that I intend to address. A full list of concerns can be found in the [Roadmap](#roadmap) below.
+This project remains a work in progress. While I have begun printing and assembling my own case, there are some notable issues in the physical assembly process that I intend to address. [Roadmap](#roadmap) provides an outline of what work is left to be done on this project.
  
 ### Design Features:
  
@@ -58,16 +58,19 @@ PC components are thermal components, so PETG is recommended for this build. It 
  
 - [ ] Create a BOM for necessary hardware
 - [ ] Add STEP exports and printable files (STL/3MF) to the repository
+- [ ] Create assembly instructions
 ### Finish the CAD
- 
-- [ ] Test print all components (67% complete)
+
+- [ ] Cleanup CAD based on personal assembly experience
 ### Design status screens
  
-- [ ] Decide what should actually be displayed
-- [ ] Design screen mounts for the front panel
-- [ ] Consider designing a PCB for the front screens
+- [ ] Add status screens design files
+  - PCB KiCAD
+  - C#
+  - Arduino IDE
 - [ ] Debug the serial connection
 - [ ] Write code to read system temperatures and loads and send them to the screens
+- [ ] Add setup instructions
 
 
 ## License
