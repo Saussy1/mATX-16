@@ -52,7 +52,7 @@ The internal frame can be assembled with 3D printed pins. Depending on the toler
  
 ### Material
  
-PC components are thermal components, so PETG is recommended for this build. It tolerates heat better than PLA, which can soften near warm components. Print and build at your own risk if you use other materials.
+PC components are thermal components, so PETG is recommended for this build. It tolerates heat better than PLA, which can soften near warm components. For the front panel, I used a laser cut clear acrylic panel for visibility into the case. Print and build at your own risk if you use other materials.
 
 ## Roadmap
  
@@ -68,8 +68,6 @@ PC components are thermal components, so PETG is recommended for this build. It 
   - PCB KiCAD
   - C#
   - Arduino IDE
-- [ ] Debug the serial connection
-- [ ] Write code to read system temperatures and loads and send them to the screens
 - [ ] Add setup instructions
 
 
